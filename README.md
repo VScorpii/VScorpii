@@ -4,6 +4,6 @@
 
 ![VScorpii's GitHub stats](https://github-readme-stats.vercel.app/api?username=VScorpii&show_icons=true&theme=dark)
 
-- 🔭 Atualmente trabalhando no [Vapor](https://github.com/VScorpii/vapor), um sistema de criação de sites estáticos a partir de markdown (ele ainda não está pronto).
-- 🌱 Eu estou atualmente aprendendo NodeJS, Laravel, TailwindCSS, C++ e Java. 
+- 🔭 Atualmente trabalhando no TCC da minha ETEC e um projeto secreto envolvendo LLM.
+- 🌱 Eu estou atualmente aprendendo PHP, SQL (SQL Server, MySQL e MariaDB) e TailwindCSS.
 - 👨‍🎓 Atualmente estudo na ETEC.
